@@ -2,7 +2,7 @@
 My qtemp
 
 * [qtemp](#qtemp)
-  *[Defeasible Logic](#defeasible-logic)
+    * [Defeasible Logic](#defeasible-logic)
 
 
 ## Defeasible Logic   
